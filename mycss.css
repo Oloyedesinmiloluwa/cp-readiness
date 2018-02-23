@@ -1,0 +1,22 @@
+body {
+    padding-top: 15%; 
+    text-align: center;
+}
+div.main {
+    padding: 10px;
+    color: red;
+   
+}
+h1 {
+    color: rgb(0, 0, 255);
+    font-size: 300%;
+}
+input {
+    padding: 5px;
+    width: 40%;
+    height: 10%;
+}
+button {
+    margin: 5px;
+    padding: 5px;
+}
